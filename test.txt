@@ -1,1 +1,2 @@
 This is mahesh and pushing changes to git
+Adding new comment in master text file
